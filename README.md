@@ -89,7 +89,7 @@ http://190.95.220.212:8000/play/a021/index.m3u8
 http://190.95.220.212:8000/play/a020/index.m3u8
 #EXTINF:-1,CNN Chile
 http://190.95.220.212:8000/play/a026/index.m3u8
-#EXTINF:-1,E! Entertainment TV
+#EXTINF:-1,E! Entertainment TV 
 http://190.95.220.212:8000/play/a024/index.m3u8
 #EXTINF:-1,ESPN2
 http://190.95.220.212:8000/play/a03f/index.m3u8
